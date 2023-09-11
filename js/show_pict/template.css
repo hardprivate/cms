@@ -1,0 +1,26 @@
+
+
+.webis-BlockContent-body ul
+{
+	list-style-type: none;
+	color: #808080;
+	margin:0;
+	padding:0;
+}
+
+.webis-BlockContent-body li
+{
+font-family: Arial, Helvetica, Sans-Serif;
+font-size: 12px;
+text-decoration: none;
+}
+
+.webis-BlockContent-body ul li
+{
+	padding:0px 0 0px 16px;
+	background-image: url('BlockCon.png');
+	background-repeat:no-repeat;
+	margin:0.5em 0 0.5em 0;
+	line-height:1.2em;
+}
+

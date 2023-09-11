@@ -1,0 +1,15 @@
+.shows {
+	overflow: hidden;
+}
+.shows span {
+	display: none;
+	width: 99px;
+	height: 99px;
+	text-align: center;
+	font-size: 40px;
+	float: left;
+	color: #fff;
+	line-height: 100px;
+	background: #949494;
+	margin: 9px;
+}
